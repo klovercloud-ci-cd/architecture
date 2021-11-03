@@ -14,3 +14,6 @@
 # Component Diagram: Klovercloud-ci-event-store
 ![component diagram: Klovercloud-ci-event-store](files/component.klovercloud-ci-event-store.png)
 
+# Component Diagram: Klovercloud-ci-agent
+![component diagram: Klovercloud-ci-agent](files/component.klovercloud-ci-agent.png)
+
