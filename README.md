@@ -11,3 +11,6 @@
 # Component Diagram: Klovercloud-ci-core 
 ![component diagram: Klovercloud-ci-core](files/component.klovercloud-ci-core.png)
 
+# Component Diagram: Klovercloud-ci-event-store
+![component diagram: Klovercloud-ci-event-store](files/component.klovercloud-ci-event-store.png)
+
