@@ -40,4 +40,4 @@
 
 
 # Component Diagram: lighthouse-command
-<div style="text-align:center"><img src="files/component.lighthouse-command.png" /></div>
+![component diagram: Klovercloud-ci-lighthouse-command](files/component.lighthouse-command.png)
