@@ -37,3 +37,7 @@
 
 # Component Diagram: lighthouse-query
 ![component diagram: Klovercloud-ci-lighthouse-query](files/component.lighthouse-query.png)
+
+
+# Component Diagram: lighthouse-command
+![component diagram: Klovercloud-ci-lighthouse-command](files/component.lighthouse-command.png)
