@@ -38,6 +38,12 @@
 # Component Diagram: lighthouse-query
 ![component diagram: Klovercloud-ci-lighthouse-query](files/component.lighthouse-query.png)
 
+[![godoc reference](https://img.shields.io/badge/godoc-reference-blue.svg)](https://pkg.go.dev/github.com/klovercloud-ci-cd/light-house-query)
+[![Go Report Card](https://goreportcard.com/badge/github.com/klovercloud-ci-cd/light-house-query)](https://goreportcard.com/report/github.com/klovercloud-ci-cd/light-house-query)
+[![DUMELS Diagram](https://www.dumels.com/api/v1/badge/b426b293-faec-489d-ab25-7a2cbb7d62d5)](https://www.dumels.com/diagram/b426b293-faec-489d-ab25-7a2cbb7d62d5)
+
 
 # Component Diagram: lighthouse-command
 ![component diagram: Klovercloud-ci-lighthouse-command](files/component.lighthouse-command.png)
+
+[![DUMELS Diagram](https://www.dumels.com/api/v1/badge/5658e0c8-5113-463b-bf13-28ff1001d8d1)](https://www.dumels.com/diagram/5658e0c8-5113-463b-bf13-28ff1001d8d1)
